@@ -16,5 +16,5 @@ Current Features:
 
 
 Youtube tutorial links:
-Core game structure: https://www.youtube.com/watch?v=e_SPuvO_l1w
-Simple inventory system: https://www.youtube.com/watch?v=b2atcZWYi3E
+- Core game structure: https://www.youtube.com/watch?v=e_SPuvO_l1w
+- Simple inventory system: https://www.youtube.com/watch?v=b2atcZWYi3E
